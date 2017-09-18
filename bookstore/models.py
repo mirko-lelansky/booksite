@@ -32,8 +32,4 @@ class Rating(models.Model):
     This class represents the rating of a book.
     """
     book = models.ForeignKey("Book", on_delete=models.CASCADE)
-    five_stars = models.PositiveIntegerField()
-    four_stars = models.PositiveIntegerField()
-    three_stars = models.PositiveIntegerField()
-    two_stars = models.PositiveIntegerField()
-    one_stars = models.PositiveIntegerField()
+    stars = models.PositiveSmallIntegerField(choices=((0, 0), (1, 1), (2, 2), (3, 3), (4, 4), (5, 5)), default=0)
