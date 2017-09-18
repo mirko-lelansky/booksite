@@ -1,0 +1,7 @@
+# This is the exclusion file for git.
+
+# Patterns for python
+
+dist/
+booksite.egg-info/
+**/__pycache__/
