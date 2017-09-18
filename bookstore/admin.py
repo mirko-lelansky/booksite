@@ -9,4 +9,5 @@ class AuthorAdmin(admin.ModelAdmin):
 
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
-    pass
+    fields = ["isbn", "title", "author", "summary"]
+    list_display = ("isbn", "title", "author")
