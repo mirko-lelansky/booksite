@@ -3,7 +3,6 @@ from django.core.urlresolvers import reverse_lazy
 from django.db.models import Count
 from django.views.generic.list import ListView
 from django.views.generic.edit import CreateView
-import numpy
 
 from .models import Author, Book, Rating
 
@@ -56,7 +55,9 @@ class RatingsListView(ListView):
         return result
 
     def _calculate_star(self, values, weights):
-        return numpy.average(values, weights=weights)
+        s = sum(values)
+        sw = sum([values[i] * weights[i] for i in range(len(values))])
+        return round(sw/s, 2)
 
 class RatingFormView(CreateView):
     """
