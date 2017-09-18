@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="utf-8">
+        {% block meta %}{% endblock %}
+        <title>
+            {% block title %}Bookstore Application{% endblock %}
+        </title>
+        {% block links %}{% endblock %}
+    </head>
+    <body>
+        <header id="header">
+            {% block header %}
+                <h1>Bookstore Application</h1>
+            {% endblock %}
+            {% block navigation %}
+                <nav>
+                    <ul>
+                        <li><a href="{% url 'bookstore:index' %}">Home</a></li>
+                    </ul>
+                </nav>
+            {% endblock %}
+        </header>
+        <section id="content">
+            {% block content %}{% endblock %}
+        </section>
+        <aside id="pagination">
+            {% block pagination %}
+                {% if is_paginated %}
+                    <nav>
+                        <ul>
+                            {% if page_obj.has_previous %}
+                                <li><a href="{{ request.path }}?page={{ page_obj.previous_page_number }}">previous</a></li>
+                            {% endif %}
+                                <li><span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span></li>
+                            {% if page_obj.has_next %}
+                                <li><a href="{{ request.path }}?page={{ page_obj.next_page_number }}">next</a></li>
+                            {% endif %}
+                        </ul>
+                    </nav>
+                {% endif %}
+            {% endblock %}
+        </aside>
+        <footer id="footer">
+            {% block footer %}{% endblock %}
+        </footer>
+    </body>
+</html>
