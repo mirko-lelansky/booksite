@@ -17,3 +17,14 @@ class Book(models.Model):
     isbn = models.CharField("ISBN", max_length=13)
     summary = models.TextField(max_length=1000)
     title = models.CharField(max_length=200)
+
+class Rating(models.Model):
+    """
+    This class represents the rating of a book.
+    """
+    book = models.ForeignKey("Book", on_delete=models.CASCADE)
+    five_stars = models.PositiveIntegerField()
+    four_stars = models.PositiveIntegerField()
+    three_stars = models.PositiveIntegerField()
+    two_stars = models.PositiveIntegerField()
+    one_stars = models.PositiveIntegerField()
