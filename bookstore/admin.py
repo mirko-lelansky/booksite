@@ -11,3 +11,8 @@ class AuthorAdmin(admin.ModelAdmin):
 class BookAdmin(admin.ModelAdmin):
     fields = ["isbn", "title", "author", "summary"]
     list_display = ("isbn", "title", "author")
+    
+    def formfield_for_foreignkey(self, db_field, request, **kwargs):
+        if db_field.name == "author":
+            kwargs["queryset"] = Author.objects.order_by('lastname', 'firstname')
+            return super().formfield_for_foreignkey(db_field, request, **kwargs)

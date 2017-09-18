@@ -20,7 +20,7 @@ class Book(models.Model):
     This class represents the books.
     """
     author = models.ForeignKey("Author", on_delete=models.SET_NULL, null=True)
-    isbn = models.CharField("ISBN", max_length=13)
+    isbn = models.CharField("ISBN", max_length=13, unique=True)
     summary = models.TextField(max_length=1000, null=True, blank=True)
     title = models.CharField(max_length=200)
 
