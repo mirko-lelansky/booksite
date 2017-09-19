@@ -30,7 +30,7 @@ First create a mysql user and a database. Then change the database url in the
 settings.py file. After that you can run the migrations with
 :code:`BOOKSITE_USER="{dbuser}" BOOKSITE_PASSWORD="{dbpassword}" python ./manage.py migrate`.
 Then you must create a super user or admin user with :code:`BOOKSITE_USER="{dbuser}" BOOKSITE_PASSWORD="{dbpassword}" python ./manage.py createsuperuser`.
-After that you can optionally import the database dumb.
+After that you can optionally import the database dumb with :code:`BOOKSITE_USER="{dbuser} BOOKSITE_PASSWORD="{dbpassword}" python ./manage.py loaddata --database default dump.json`.
 The last thing what you have to do is to start the server with :code:`BOOKSITE_USER="{dbuser}" BOOKSITE_PASSWORD="{dbpassword}" python ./manage.py runserver`.
 
 You can delete the BOOKSITE_USER and BOOKSITE_PASSWORD prefix when you have the
