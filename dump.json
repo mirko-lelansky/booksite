@@ -1,0 +1,2267 @@
+[
+{
+    "model": "bookstore.author",
+    "pk": 1,
+    "fields": {
+        "firstname": "Dietmar",
+        "lastname": "Abts",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 2,
+    "fields": {
+        "firstname": "Phillip",
+        "lastname": "Ackermann",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 3,
+    "fields": {
+        "firstname": "Eckard",
+        "lastname": "Ammann",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 4,
+    "fields": {
+        "firstname": "Ken",
+        "lastname": "Arnold",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 5,
+    "fields": {
+        "firstname": "Martin",
+        "lastname": "Backshat",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 6,
+    "fields": {
+        "firstname": "Brian",
+        "lastname": "Bagnall",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 7,
+    "fields": {
+        "firstname": "Helmut",
+        "lastname": "Balzert",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 8,
+    "fields": {
+        "firstname": "Bernhard",
+        "lastname": "Bauer",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 9,
+    "fields": {
+        "firstname": "Thomas",
+        "lastname": "Bayer",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 10,
+    "fields": {
+        "firstname": "Douglas",
+        "lastname": "Bell",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 11,
+    "fields": {
+        "firstname": "J\u00f6rg",
+        "lastname": "Bewersdorff",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 12,
+    "fields": {
+        "firstname": "Adam",
+        "lastname": "Bien",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 13,
+    "fields": {
+        "firstname": "Joseph P.",
+        "lastname": "Bigus",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 14,
+    "fields": {
+        "firstname": "Christian",
+        "lastname": "Bleske",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 15,
+    "fields": {
+        "firstname": "Marko",
+        "lastname": "Boger",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 16,
+    "fields": {
+        "firstname": "Marco",
+        "lastname": "B\u00f6gge",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 17,
+    "fields": {
+        "firstname": "Oliver",
+        "lastname": "B\u00f6hm",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 18,
+    "fields": {
+        "firstname": "Dietrich",
+        "lastname": "Boles",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 19,
+    "fields": {
+        "firstname": "Andy",
+        "lastname": "Bosch",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 20,
+    "fields": {
+        "firstname": "Siegemund",
+        "lastname": "Brandt",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 21,
+    "fields": {
+        "firstname": "Peter",
+        "lastname": "Brich",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 22,
+    "fields": {
+        "firstname": "Volker",
+        "lastname": "Bublitz",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 23,
+    "fields": {
+        "firstname": "Barry",
+        "lastname": "Burd",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 24,
+    "fields": {
+        "firstname": "Wilhelm",
+        "lastname": "Burger",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 25,
+    "fields": {
+        "firstname": "Eric M.",
+        "lastname": "Burke",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 26,
+    "fields": {
+        "firstname": "Mary",
+        "lastname": "Campione",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 27,
+    "fields": {
+        "firstname": "Gary",
+        "lastname": "Cornell",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 28,
+    "fields": {
+        "firstname": "Berthold",
+        "lastname": "Daum",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 29,
+    "fields": {
+        "firstname": "Klaus-Georg",
+        "lastname": "Deck",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 30,
+    "fields": {
+        "firstname": "Wolfgang",
+        "lastname": "Dehnhard",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 31,
+    "fields": {
+        "firstname": "Harvey M.",
+        "lastname": "Deitel",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 32,
+    "fields": {
+        "firstname": "Klaus",
+        "lastname": "Echtle",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 33,
+    "fields": {
+        "firstname": "Andreas",
+        "lastname": "Engel",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.author",
+    "pk": 34,
+    "fields": {
+        "firstname": "Anton",
+        "lastname": "Epple",
+        "date_of_birth": null,
+        "date_of_death": null
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 1,
+    "fields": {
+        "author": 2,
+        "isbn": "9783836238380",
+        "summary": "",
+        "title": "Javascript"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 2,
+    "fields": {
+        "author": 2,
+        "isbn": "978383622379",
+        "summary": "",
+        "title": "Professionell entwickeln mit JavaScript"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 3,
+    "fields": {
+        "author": 7,
+        "isbn": "9783868340457",
+        "summary": "",
+        "title": "Java Anwendungen programmieren"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 4,
+    "fields": {
+        "author": 11,
+        "isbn": "9783658054441",
+        "summary": "",
+        "title": "Objektorientierte Programmierung mit JavaScript"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 5,
+    "fields": {
+        "author": 12,
+        "isbn": "9783939084242",
+        "summary": "",
+        "title": "Java EE 5 Architekturen"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 6,
+    "fields": {
+        "author": 14,
+        "isbn": "9783645602549",
+        "summary": "",
+        "title": "Java f\u00fcr Android"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 7,
+    "fields": {
+        "author": 18,
+        "isbn": "9783834808028",
+        "summary": "",
+        "title": "Objektorierntiert Programmierung spielend gelernt mit dem Java-Hamster-Modell"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 8,
+    "fields": {
+        "author": 19,
+        "isbn": "9783939084891",
+        "summary": "",
+        "title": "Portlets und JavaServer Faces"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 9,
+    "fields": {
+        "author": 20,
+        "isbn": "9783642376641",
+        "summary": "",
+        "title": "Datenanalyse f\u00fcr Naturwissenschaftler und Ingenieure"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 10,
+    "fields": {
+        "author": 23,
+        "isbn": "9783527709960",
+        "summary": "",
+        "title": "Java f\u00fcr die Android-Entwicklung f\u00fcr Dummies"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 11,
+    "fields": {
+        "author": 24,
+        "isbn": "9783642046049",
+        "summary": "",
+        "title": "Digitale Bildverarbeitung"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 12,
+    "fields": {
+        "author": 29,
+        "isbn": "9783834812222",
+        "summary": "",
+        "title": "Java-Grundkurs f\u00fcr Wirtschaftsinformatiker"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 13,
+    "fields": {
+        "author": 1,
+        "isbn": "0471146153",
+        "summary": "",
+        "title": "J2EE antipatterns"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 14,
+    "fields": {
+        "author": 1,
+        "isbn": "3528057114",
+        "summary": "",
+        "title": "Grundkurs JAVA"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 15,
+    "fields": {
+        "author": 3,
+        "isbn": "382660329X",
+        "summary": "",
+        "title": "Programmierung animierter Welten"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 16,
+    "fields": {
+        "author": 4,
+        "isbn": "3827310342",
+        "summary": "",
+        "title": "Die Programmiersprache Java"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 17,
+    "fields": {
+        "author": 5,
+        "isbn": "3827413222",
+        "summary": "",
+        "title": "Enterprise JavaBeans"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 18,
+    "fields": {
+        "author": 5,
+        "isbn": "3827414466",
+        "summary": "",
+        "title": "J2EE-Entwicklung mit Open-Source-Tools"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 19,
+    "fields": {
+        "author": 6,
+        "isbn": "3826613112",
+        "summary": "",
+        "title": "C[#] f\u00fcr Java-Programmierer"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 20,
+    "fields": {
+        "author": 7,
+        "isbn": "3827403588",
+        "summary": "",
+        "title": "Lehrbuch Grundlagen der Informatik"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 21,
+    "fields": {
+        "author": 8,
+        "isbn": "3540642560",
+        "summary": "",
+        "title": "\u00dcbersetzung objektorientierte Programmiersprachen"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 22,
+    "fields": {
+        "author": 9,
+        "isbn": "3935042574",
+        "summary": "",
+        "title": "Java Web Services mit Apache Axis"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 23,
+    "fields": {
+        "author": 10,
+        "isbn": "3827370450",
+        "summary": "",
+        "title": "Java f\u00fcr Studenten"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 24,
+    "fields": {
+        "author": 12,
+        "isbn": "3827319501",
+        "summary": "",
+        "title": "J2EE-Hotspots"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 25,
+    "fields": {
+        "author": 13,
+        "isbn": "3827318416",
+        "summary": "",
+        "title": "Intelligente Agenten mit Java programmieren"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 26,
+    "fields": {
+        "author": 15,
+        "isbn": "3932588320",
+        "summary": "",
+        "title": "Java in verteielten Systemen"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 27,
+    "fields": {
+        "author": 17,
+        "isbn": "3898643301",
+        "summary": "",
+        "title": "Aspektorientiert Programmierung mit AspectJ 5"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 28,
+    "fields": {
+        "author": 19,
+        "isbn": "3827321271",
+        "summary": "",
+        "title": "Java Server Faces"
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 1,
+    "fields": {
+        "book": 15,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 2,
+    "fields": {
+        "book": 18,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 3,
+    "fields": {
+        "book": 28,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 4,
+    "fields": {
+        "book": 20,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 5,
+    "fields": {
+        "book": 17,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 6,
+    "fields": {
+        "book": 1,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 7,
+    "fields": {
+        "book": 14,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 8,
+    "fields": {
+        "book": 17,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 9,
+    "fields": {
+        "book": 5,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 10,
+    "fields": {
+        "book": 23,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 11,
+    "fields": {
+        "book": 19,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 12,
+    "fields": {
+        "book": 19,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 13,
+    "fields": {
+        "book": 26,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 14,
+    "fields": {
+        "book": 25,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 15,
+    "fields": {
+        "book": 10,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 16,
+    "fields": {
+        "book": 15,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 17,
+    "fields": {
+        "book": 2,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 18,
+    "fields": {
+        "book": 1,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 19,
+    "fields": {
+        "book": 28,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 20,
+    "fields": {
+        "book": 23,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 21,
+    "fields": {
+        "book": 23,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 22,
+    "fields": {
+        "book": 4,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 23,
+    "fields": {
+        "book": 28,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 24,
+    "fields": {
+        "book": 16,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 25,
+    "fields": {
+        "book": 2,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 26,
+    "fields": {
+        "book": 9,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 27,
+    "fields": {
+        "book": 9,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 28,
+    "fields": {
+        "book": 21,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 29,
+    "fields": {
+        "book": 7,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 30,
+    "fields": {
+        "book": 19,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 31,
+    "fields": {
+        "book": 13,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 32,
+    "fields": {
+        "book": 4,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 33,
+    "fields": {
+        "book": 7,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 34,
+    "fields": {
+        "book": 21,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 35,
+    "fields": {
+        "book": 16,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 36,
+    "fields": {
+        "book": 1,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 37,
+    "fields": {
+        "book": 15,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 38,
+    "fields": {
+        "book": 26,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 39,
+    "fields": {
+        "book": 12,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 40,
+    "fields": {
+        "book": 20,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 41,
+    "fields": {
+        "book": 14,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 42,
+    "fields": {
+        "book": 15,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 43,
+    "fields": {
+        "book": 22,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 44,
+    "fields": {
+        "book": 18,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 45,
+    "fields": {
+        "book": 15,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 46,
+    "fields": {
+        "book": 6,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 47,
+    "fields": {
+        "book": 22,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 48,
+    "fields": {
+        "book": 3,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 49,
+    "fields": {
+        "book": 2,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 50,
+    "fields": {
+        "book": 16,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 51,
+    "fields": {
+        "book": 16,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 52,
+    "fields": {
+        "book": 1,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 53,
+    "fields": {
+        "book": 9,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 54,
+    "fields": {
+        "book": 19,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 55,
+    "fields": {
+        "book": 6,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 56,
+    "fields": {
+        "book": 4,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 57,
+    "fields": {
+        "book": 6,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 58,
+    "fields": {
+        "book": 24,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 59,
+    "fields": {
+        "book": 19,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 60,
+    "fields": {
+        "book": 25,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 61,
+    "fields": {
+        "book": 22,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 62,
+    "fields": {
+        "book": 8,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 63,
+    "fields": {
+        "book": 27,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 64,
+    "fields": {
+        "book": 24,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 65,
+    "fields": {
+        "book": 9,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 66,
+    "fields": {
+        "book": 17,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 67,
+    "fields": {
+        "book": 23,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 68,
+    "fields": {
+        "book": 28,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 69,
+    "fields": {
+        "book": 23,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 70,
+    "fields": {
+        "book": 25,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 71,
+    "fields": {
+        "book": 19,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 72,
+    "fields": {
+        "book": 3,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 73,
+    "fields": {
+        "book": 6,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 74,
+    "fields": {
+        "book": 12,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 75,
+    "fields": {
+        "book": 13,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 76,
+    "fields": {
+        "book": 20,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 77,
+    "fields": {
+        "book": 4,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 78,
+    "fields": {
+        "book": 20,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 79,
+    "fields": {
+        "book": 24,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 80,
+    "fields": {
+        "book": 6,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 81,
+    "fields": {
+        "book": 13,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 82,
+    "fields": {
+        "book": 14,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 83,
+    "fields": {
+        "book": 1,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 84,
+    "fields": {
+        "book": 15,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 85,
+    "fields": {
+        "book": 14,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 86,
+    "fields": {
+        "book": 4,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 87,
+    "fields": {
+        "book": 22,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 88,
+    "fields": {
+        "book": 15,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 89,
+    "fields": {
+        "book": 11,
+        "stars": 1
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 90,
+    "fields": {
+        "book": 8,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 91,
+    "fields": {
+        "book": 13,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 92,
+    "fields": {
+        "book": 28,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 93,
+    "fields": {
+        "book": 28,
+        "stars": 3
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 94,
+    "fields": {
+        "book": 8,
+        "stars": 5
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 95,
+    "fields": {
+        "book": 25,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 96,
+    "fields": {
+        "book": 4,
+        "stars": 4
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 97,
+    "fields": {
+        "book": 10,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 98,
+    "fields": {
+        "book": 15,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 99,
+    "fields": {
+        "book": 27,
+        "stars": 2
+    }
+},
+{
+    "model": "bookstore.rating",
+    "pk": 100,
+    "fields": {
+        "book": 15,
+        "stars": 5
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$eKVESK0FTlWc$9FpCqxnREoRQtAFEgk2oqUDKx7GKf2v5gSJaDZ91fb0=",
+        "last_login": "2017-09-06T12:40:34.696Z",
+        "is_superuser": true,
+        "username": "booksite",
+        "first_name": "",
+        "last_name": "",
+        "email": "webmaster@localhost",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2017-09-01T14:38:55.313Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "m0r4iioaa5fnu3mt6l2zo1q4r2uprbcy",
+    "fields": {
+        "session_data": "NTcwOTVhN2Y1OWExZTg1NjUyN2Q2M2Q0M2I4NTk4NzMyNmViZDNkYTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlM2VlYmI5ZDk1OTA5MmI2MGM2OTY5NmVhZTQ1ZTIyNjVkOTVhMTBiIn0=",
+        "expire_date": "2017-09-20T12:40:34.723Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2017-09-06T12:41:02.635Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "1",
+        "object_repr": "Dietmar Abts",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2017-09-06T12:41:13.322Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "2",
+        "object_repr": "Phillip Ackermann",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2017-09-06T12:41:36.714Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "3",
+        "object_repr": "Eckard Ammann",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2017-09-06T12:41:46.675Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "4",
+        "object_repr": "Ken Arnold",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2017-09-06T12:41:56.879Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "5",
+        "object_repr": "Martin Backshat",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2017-09-06T12:42:09.242Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "6",
+        "object_repr": "Brian Bagnall",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2017-09-06T12:42:18.666Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "7",
+        "object_repr": "Helmut Balzert",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2017-09-06T12:42:32.977Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "8",
+        "object_repr": "Bernhard Bauer",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2017-09-06T12:42:48.378Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "9",
+        "object_repr": "Thomas Bayer",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2017-09-06T12:43:00.756Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "10",
+        "object_repr": "Douglas Bell",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2017-09-06T12:43:14.763Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "11",
+        "object_repr": "J\u00f6rg Bewersdorff",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2017-09-06T12:43:23.485Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "12",
+        "object_repr": "Adam Bien",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2017-09-06T12:44:00.444Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "13",
+        "object_repr": "Joseph P. Bigus",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2017-09-06T12:44:11.706Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "14",
+        "object_repr": "Christian Bleske",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2017-09-06T12:44:32.592Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "15",
+        "object_repr": "Marko Boger",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2017-09-06T12:44:47.327Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "16",
+        "object_repr": "Marco B\u00f6gge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2017-09-06T12:44:57.996Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "17",
+        "object_repr": "Oliver B\u00f6hm",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2017-09-06T12:45:14.962Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "18",
+        "object_repr": "Dietrich Boles",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2017-09-06T12:45:32.143Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "19",
+        "object_repr": "Andy Bosch",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2017-09-06T12:45:52.176Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "20",
+        "object_repr": "Siegemund Brandt",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2017-09-06T12:45:59.815Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "21",
+        "object_repr": "Peter Brich",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2017-09-06T12:46:21.070Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "22",
+        "object_repr": "Volker Bublitz",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2017-09-06T12:46:29.532Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "23",
+        "object_repr": "Barry Burd",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2017-09-06T12:46:39.061Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "24",
+        "object_repr": "Wilhelm Burger",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2017-09-06T12:46:55.622Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "25",
+        "object_repr": "Eric M. Burke",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2017-09-06T12:47:27.352Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "26",
+        "object_repr": "Mary Campione",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2017-09-06T12:48:12.999Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "27",
+        "object_repr": "Gary Cornell",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2017-09-06T12:48:29.258Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "28",
+        "object_repr": "Berthold Daum",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2017-09-06T12:59:17.334Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "29",
+        "object_repr": "Klaus-Georg Deck",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2017-09-06T12:59:40.654Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "30",
+        "object_repr": "Wolfgang Dehnhard",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2017-09-06T12:59:56.449Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "31",
+        "object_repr": "Harvey M. Deitel",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2017-09-06T13:00:18.873Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "32",
+        "object_repr": "Klaus Echtle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2017-09-06T13:00:31.519Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "33",
+        "object_repr": "Andreas Engel",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2017-09-06T13:00:48.765Z",
+        "user": 1,
+        "content_type": 1,
+        "object_id": "34",
+        "object_repr": "Anton Epple",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2017-09-06T13:05:10.630Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "1",
+        "object_repr": "Javascript",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2017-09-06T13:05:55.245Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "2",
+        "object_repr": "Professionell entwickeln mit JavaScript",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2017-09-06T13:07:36.570Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "3",
+        "object_repr": "Java Anwendungen programmieren",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2017-09-06T13:08:42.302Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "4",
+        "object_repr": "Objektorientierte Programmierung mit JavaScript",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2017-09-06T13:09:37.618Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "5",
+        "object_repr": "Java EE 5 Architekturen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2017-09-06T13:10:27.734Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "6",
+        "object_repr": "Java f\u00fcr Android",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2017-09-06T13:12:12.073Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "7",
+        "object_repr": "Objektorierntiert Programmierung spielend gelernt mit dem Java-Hamster-Modell",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2017-09-06T13:12:53.787Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "8",
+        "object_repr": "Portlets und JavaServer Faces",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2017-09-06T13:13:45.965Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "9",
+        "object_repr": "Datenanalyse f\u00fcr Naturwissenschaftler und Ingenieure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2017-09-06T14:02:34.336Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "10",
+        "object_repr": "Java fpr die Android-Entwicklung f\u00fcr Dummies",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2017-09-06T14:02:48.173Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "10",
+        "object_repr": "Java f\u00fcr die Android-Entwicklung f\u00fcr Dummies",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2017-09-06T14:03:56.025Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "11",
+        "object_repr": "Digitale Bildverarbeitung",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2017-09-06T14:06:44.600Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "12",
+        "object_repr": "Java-Grundkurs f\u00fcr Wirtschaftsinformatiker",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2017-09-06T14:08:03.125Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "13",
+        "object_repr": "J2EE antipatterns",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2017-09-06T14:08:44.864Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "14",
+        "object_repr": "Grundkurs JAVA",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2017-09-06T14:09:44.537Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "15",
+        "object_repr": "Programmierung animierter Welten",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2017-09-06T14:10:34.019Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "16",
+        "object_repr": "Die Programmiersprache Java",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2017-09-06T14:11:10.737Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "17",
+        "object_repr": "Enterprise JavaBeans",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2017-09-06T14:12:37.340Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "18",
+        "object_repr": "J2EE-Entwicklung mit Open-Source-Tools",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2017-09-06T14:13:21.809Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "19",
+        "object_repr": "C[#] f\u00fcr Java-Programmierer",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2017-09-06T14:14:07.092Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "20",
+        "object_repr": "Lehrbuch Grundlagen der Informatik",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2017-09-06T14:14:57.905Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "21",
+        "object_repr": "\u00dcbersetzung objektorientierte Programmiersprachen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2017-09-06T14:15:44.195Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "22",
+        "object_repr": "Java Web Services mit Apache Axis",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2017-09-06T14:16:19.787Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "23",
+        "object_repr": "Java f\u00fcr Studenten",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2017-09-06T14:17:12.937Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "24",
+        "object_repr": "J2EE-Hotspots",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2017-09-06T14:18:04.001Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "25",
+        "object_repr": "Intelligente Agenten mit Java programmieren",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2017-09-06T14:19:00.469Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "26",
+        "object_repr": "Java in verteielten Systemen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2017-09-06T14:20:11.926Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "27",
+        "object_repr": "Aspektorientiert Programmierung mit AspectJ 5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2017-09-06T14:21:11.788Z",
+        "user": 1,
+        "content_type": 2,
+        "object_id": "28",
+        "object_repr": "Java Server Faces",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
