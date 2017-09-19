@@ -15,4 +15,4 @@ class BookAdmin(admin.ModelAdmin):
     def formfield_for_foreignkey(self, db_field, request, **kwargs):
         if db_field.name == "author":
             kwargs["queryset"] = Author.objects.order_by('lastname', 'firstname')
-            return super().formfield_for_foreignkey(db_field, request, **kwargs)
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)
